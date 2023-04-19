@@ -257,7 +257,7 @@ const Inicio =() => {
                 </div>
             </nav>
             <Presentacion> 
-                <h1>Lulë</h1>
+                <h1>ECO-P</h1>
                 <p>Sientete segura comprando productos ecologicos, <br></br> Sientete sefura contigo misma.</p>
             </Presentacion>
             <Cuerpo>
